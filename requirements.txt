@@ -5,3 +5,4 @@ prompt-toolkit
 tiktoken>=0.3.0
 openai
 rich
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
